@@ -1,6 +1,7 @@
 {
   "name": "monaco-test",
   "version": "0.0.0",
+  "homepage" : "https://sameeramadusanka.github.io/monaco_editor.github.io/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
